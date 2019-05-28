@@ -1,6 +1,6 @@
 # os-labs
 
-| Project | Note | Written in |
+| Project | Algorithms involved | Written in |
 | --- | --- | --- |
 |[Two-pass linker](https://github.com/vic-lee/os-two-pass-linker)| |Python|
 |[Scheduling algorithms](https://github.com/vic-lee/os-scheduler)|FCFS, RoundRobin, Uniprogrammed, SJF|C++|
